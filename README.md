@@ -38,7 +38,7 @@ lib/
 │   ├── auth_provider.dart
 │   └── use_cases.dart
 ├── widgets/
-│   └── [your custom widgets]
+│   └── custom_appbar.dart
 ├── main.dart
 └── supabase_config.dart
 </pre>
